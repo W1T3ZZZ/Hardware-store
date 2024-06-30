@@ -1,0 +1,9 @@
+.app__findus {
+  background: var(--color-black);
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+  margin-top: 2rem;
+}
